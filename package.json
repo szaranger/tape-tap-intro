@@ -1,0 +1,32 @@
+{
+  "name": "tape-tap",
+  "version": "1.0.0",
+  "description": "Tape & TAP demo",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szaranger/tape-tap-intro.git"
+  },
+  "keywords": [
+    "Tape",
+    "Tap",
+    "Tests"
+  ],
+  "author": "Sean Amarasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szaranger/tape-tap-intro/issues"
+  },
+  "homepage": "https://github.com/szaranger/tape-tap-intro#readme",
+  "dependencies": {
+    "babel-register": "^6.9.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1"
+  }
+}
